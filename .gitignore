@@ -1,3 +1,4 @@
 CommentClassification/GoogleNews-vectors-negative300.bin
 CommentClassification/aclImdb
 CommentClassification/txt_sentoken
+CommentClassification/stanfordSentimentTreebank
